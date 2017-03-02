@@ -7,5 +7,8 @@ package solved;
 public class ArrayInverter {
 
 
+    public static void revert(Object o) {
+        throw new IllegalArgumentException();
+    }
 }
 
