@@ -1,6 +1,7 @@
 package stencils;
 
 // the class implements a range of integers and some basic operation on ranges
+// throw IllegalArgumentException when a number is divided by 0;
 public class Range {
 		
 	// Range(2, 5) covers integers: {2, 3, 4}
